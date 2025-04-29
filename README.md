@@ -6,7 +6,7 @@
 - currently learning assembly
 - Languages: Sql,python, bash (shell language) a Lil bit of batch, kotlin, assembly, ruby, php, html
 - age 20
-- i develop projects. ans I add explanations inside the source codes because I'm helping yall learn understand what each function does.
+- i develop projects. I add explanations inside the source codes because I'm helping yall learn understand what each function does.
 - got CEH certification
 - if I'm offline for too long it means I'm working or working on a project, or just sleeping.
 - ediop3 is my alias.
