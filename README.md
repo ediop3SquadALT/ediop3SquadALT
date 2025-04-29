@@ -1,8 +1,8 @@
-## Hi there 👋
+## introduction. hello
 
 
 
-- 🔭 I’m currently working on a better cap like framework. I already finished the router exploitation framework I'll publish it in a few weeks.
+- 🔭 I have finished a router exploitation framework. I'll release it in a few weeks.
 - currently learning assembly
 - Languages: Sql,python, bash (shell language) a Lil bit of batch, kotlin, assembly, ruby, php, html
 - age 20
