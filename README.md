@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**ediop3SquadALT/ediop3SquadALT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a better cap like framework. I already finished the router exploitation framework I'll publish it in a few weeks.
+- currently learning assembly
+- Languages: Sql,python, bash (shell language) a Lil bit of batch, kotlin, assembly, ruby, php, html
+- age 20
+- i develop projects. ans I add explanations inside the source codes because I'm helping yall learn understand what each function does.
+- got CEH certification
+- if I'm offline for too long it means I'm working or working on a project, or just sleeping.
+- ediop3 is my alias.
+- my pronounces? he/him or troll/hak
+- I am a male.
+- favorite Lang: English
+- fav coding lang: python, bash (shell language)
+- very haker man.
