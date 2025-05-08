@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I have finished a router exploitation framework. I'll release it in a few weeks.
-- currently learning assembly
+- 🔭 idk what to say. lol
+- 
 - Languages: Sql,python, bash (shell language) a Lil bit of batch, kotlin, assembly, ruby, php, html
 - age 20
 - i develop projects. I add explanations inside the source codes because I'm helping yall learn understand what each function does.
